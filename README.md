@@ -2,7 +2,7 @@
 
 **`QA em Formação | Automação de Testes | Transição de Carreira para TI`**
 
-Me chamo Leonardo Carolino, tenho 31 anos e sou de Campinas/SP. Atualmente estou em transição de carreira para a área de Tecnologia da Informação, com foco em Qualidade de Software (QA) e Automação de Testes.
+Me chamo Leonardo Carolino, tenho 34 anos e sou de Campinas/SP. Atualmente estou em transição de carreira para a área de Tecnologia da Informação, com foco em Qualidade de Software (QA) e Automação de Testes.
 
 Sou estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com previsão de conclusão no 2º semestre de 2028. Além da graduação, venho me dedicando a cursos, projetos práticos e estudos voltados para testes manuais, automação, APIs e desenvolvimento de software.
 
