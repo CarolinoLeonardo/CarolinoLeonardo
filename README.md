@@ -2,13 +2,15 @@
 
 **`QA em Formação | Automação de Testes | Transição de Carreira para TI`**
 
-Me chamo Leonardo Carolino, moro em Campinas - SP e atualmente estou em transição de carreira para a área de Tecnologia da Informação, com foco em Qualidade de Software (QA) e Automação de Testes.
+Me chamo Leonardo Carolino, tenho 31 anos e sou de Campinas/SP. Atualmente estou em transição de carreira para a área de Tecnologia da Informação, com foco em Qualidade de Software (QA) e Automação de Testes.
 
-Possuo experiência profissional como professor de inglês, desenvolvendo habilidades como comunicação, didática, resolução de problemas e trabalho com pessoas. Hoje aplico essas competências em minha jornada na área de tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com previsão de conclusão no 2º semestre de 2028. Além da graduação, venho me dedicando a cursos, projetos práticos e estudos voltados para testes manuais, automação, APIs e desenvolvimento de software.
 
-Atualmente estudo Testes de Software, Automação de Testes, Lógica de Programação, Python e Linguagem C, desenvolvendo projetos práticos e compartilhando minha evolução profissional através do LinkedIn e GitHub.
+Tenho experiência profissional como professor de inglês, onde desenvolvi habilidades como comunicação, didática, resolução de problemas e atenção aos detalhes, competências que hoje aplico em minha jornada na área de tecnologia.
 
-Meu objetivo é conquistar uma oportunidade como QA Júnior, Analista de Testes ou áreas relacionadas à qualidade de software.
+Aqui no GitHub compartilho meus projetos, exercícios, estudos e desafios, documentando minha evolução como futuro profissional de QA e desenvolvimento.
+
+🚀 Sempre aprendendo, construindo projetos e buscando minha primeira oportunidade na área de tecnologia.
 
 <p align="left">
     <a href="https://www.instagram.com/teachercarolino/">
