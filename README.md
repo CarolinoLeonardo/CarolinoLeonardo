@@ -62,11 +62,11 @@ Aqui no GitHub compartilho meus projetos, exercícios, estudos e desafios, docum
 ## 📚 Atualmente Estudando
 
 * Fundamentos de Teste de Software
+* Git e GitHub
 * Testes Manuais
 * Automação de Testes
 * Python
 * Linguagem C
-* Git e GitHub
 * APIs REST
 * BDD (Behavior Driven Development)
 * Qualidade de Software
