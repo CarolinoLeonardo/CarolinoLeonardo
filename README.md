@@ -92,20 +92,3 @@ Aqui no GitHub compartilho meus estudos, exercícios, anotações, projetos prá
 Construir uma base sólida em QA Manual, Git/GitHub e documentação de testes, desenvolvendo projetos práticos para demonstrar minha evolução e me preparar para minha primeira oportunidade na área de tecnologia.
 
 ---
-
-## 📊 Estatísticas
-
-<p>
-  <img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=CarolinoLeonardo&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
-
-<img
-align="left"
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinoLeonardo&theme=tokyonight&layout=compact&langs_count=8"
-/>
-
-</p>
