@@ -1,19 +1,18 @@
-```markdown
 # 👨🏻‍💻 Leonardo Carolino
 
-**`QA em Formação | Testes de Software | Transição de Carreira para TI`**
+**`QA em Formação | Testes Manuais | Git & GitHub | Transição de Carreira para TI`**
 
 Me chamo Leonardo Carolino, tenho 34 anos e sou de Campinas/SP. Atualmente estou em transição de carreira para a área de Tecnologia da Informação, com foco em Qualidade de Software (QA).
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com previsão de conclusão no 2º semestre de 2028. Finalizei o primeiro semestre da graduação, onde tive contato com fundamentos importantes como Linguagem C, lógica de programação, segurança da informação, redes de computadores e computação em nuvem.
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com previsão de conclusão no 2º semestre de 2028. Finalizei o primeiro semestre da graduação estudando fundamentos importantes como Linguagem C, lógica, segurança da informação, redes de computadores e computação em nuvem.
 
-Neste momento, estou na primeira fase do meu processo de recolocação profissional em TI, seguindo um roadmap de estudos focado em QA. Minha etapa atual está concentrada em construir uma base sólida em testes de software, testes manuais, documentação de testes, Git, GitHub e boas práticas de organização de projetos.
+No momento, estou na primeira fase do meu processo de estudos para recolocação profissional em QA, seguindo um roadmap estruturado de 6 meses. Meu foco atual está em construir uma base sólida em fundamentos de teste de software, testes manuais, documentação de testes, Git e GitHub.
 
-Tenho mais de 10 anos de experiência como professor de inglês, área em que desenvolvi habilidades como comunicação clara, didática, atenção aos detalhes, resolução de problemas e análise cuidadosa de necessidades. Hoje, aplico essas competências na minha evolução como futuro profissional de QA.
+Tenho mais de 10 anos de experiência como professor de inglês, área em que desenvolvi habilidades como comunicação clara, didática, organização, resolução de problemas, pensamento analítico e atenção aos detalhes. Hoje, estou direcionando essas competências para minha evolução como futuro profissional de QA.
 
-Aqui no GitHub compartilho meus exercícios, projetos de estudo, anotações e desafios práticos, documentando minha jornada de aprendizado e evolução na área de tecnologia.
+Aqui no GitHub compartilho meus estudos, exercícios, anotações, projetos práticos e minha evolução durante essa jornada de transição para a área de tecnologia.
 
-🚀 Em busca da minha primeira oportunidade em TI, especialmente em QA, Testes Manuais ou posições de entrada na área de Qualidade de Software.
+🚀 Atualmente estudando, praticando e construindo minha base para conquistar minha primeira oportunidade em QA.
 
 <p align="left">
     <a href="https://www.instagram.com/teachercarolino/">
@@ -43,24 +42,6 @@ Aqui no GitHub compartilho meus exercícios, projetos de estudo, anotações e d
 
 ---
 
-## 🎯 Fase Atual da Jornada
-
-Atualmente estou na **Fase 1 do meu roadmap de recolocação para QA**, com foco em:
-
-* Fundamentos de Teste de Software
-* Conceitos de Qualidade de Software
-* Testes Manuais
-* Criação de casos de teste
-* Registro de bugs
-* Documentação de testes
-* Git e GitHub
-* Organização de repositórios e versionamento
-* Revisão dos fundamentos de lógica e programação em C
-
-Meu objetivo nesta etapa é construir uma base forte antes de avançar para automação de testes, testes de API, banco de dados, Python e ferramentas utilizadas no mercado.
-
----
-
 ## 🚀 Tecnologias e Ferramentas
 
 <img align="left" alt="C" title="Linguagem C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -78,42 +59,37 @@ Meu objetivo nesta etapa é construir uma base forte antes de avançar para auto
 
 ## 📚 Atualmente Estudando
 
-* Fundamentos do Teste de Software
-* Git e GitHub
-* Testes Manuais
+### Fase 1 — Base para QA
+
+* Fundamentos de Teste de Software
 * Qualidade de Software
-* Casos de Teste
-* Relatórios de Bugs
-* Documentação de Testes
-* Lógica de Programação
-* Linguagem C
+* Testes Manuais
+* Tipos e níveis de teste
+* Casos de teste
+* Cenários de teste
+* Relatórios de bugs
+* Git e GitHub
+* Documentação de estudos e projetos
+* Revisão de lógica de programação com Linguagem C
 
 ---
 
-## 🧪 Próximos Passos no Roadmap
-
-Nos próximos meses, meu plano de estudos inclui:
+## 🧭 Próximas Etapas do Roadmap
 
 * BDD com Gherkin
 * Testes de API com Postman
-* SQL para QA
-* Python para automação
+* SQL
+* Python
+* Automação de Testes
 * Robot Framework
 * Cypress
-* Azure DevOps
-* Projetos práticos de QA para portfólio
+* Projetos práticos para portfólio de QA
 
 ---
 
-## 📌 Projetos em Desenvolvimento
+## 🎯 Objetivo Atual
 
-Atualmente estou organizando meus estudos e projetos iniciais, incluindo:
-
-* Exercícios de programação em C
-* Repositórios de estudo com Git e GitHub
-* Documentações de testes manuais
-* Casos de teste baseados em cenários reais
-* Relatórios de bugs simulando situações do mercado
+Construir uma base sólida em QA Manual, Git/GitHub e documentação de testes, desenvolvendo projetos práticos para demonstrar minha evolução e me preparar para minha primeira oportunidade na área de tecnologia.
 
 ---
 
@@ -127,10 +103,9 @@ Atualmente estou organizando meus estudos e projetos iniciais, incluindo:
   />
 
 <img
- align="left"
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinoLeonardo&theme=tokyonight&layout=compact&langs_count=8"
+align="left"
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinoLeonardo&theme=tokyonight&layout=compact&langs_count=8"
 />
 
 </p>
-```
