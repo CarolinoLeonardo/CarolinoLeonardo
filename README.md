@@ -1,18 +1,18 @@
 # 👨🏻‍💻 Leonardo Carolino
 
-**`QA em Formação | Testes Manuais | Git & GitHub | Transição de Carreira para TI`**
+**`QA em Formação | Testes de Software | Transição de Carreira para TI`**
 
 Me chamo Leonardo Carolino, tenho 34 anos e sou de Campinas/SP. Atualmente estou em transição de carreira para a área de Tecnologia da Informação, com foco em Qualidade de Software (QA).
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com previsão de conclusão no 2º semestre de 2028. Finalizei o primeiro semestre da graduação estudando fundamentos importantes como Linguagem C, lógica, segurança da informação, redes de computadores e computação em nuvem.
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com previsão de conclusão no 2º semestre de 2028. No momento, estou na primeira fase do meu processo de estudos para recolocação profissional em QA, seguindo um roadmap estruturado de 6 meses com foco em fundamentos de testes, Git, GitHub, documentação técnica e construção de projetos práticos.
 
-No momento, estou na primeira fase do meu processo de estudos para recolocação profissional em QA, seguindo um roadmap estruturado de 6 meses. Meu foco atual está em construir uma base sólida em fundamentos de teste de software, testes manuais, documentação de testes, Git e GitHub.
+Nesta etapa inicial, estou estudando os fundamentos do teste de software, entendendo o papel do QA dentro do ciclo de desenvolvimento e fortalecendo minha base em versionamento de código com Git e GitHub. Minha prioridade atual é construir uma base sólida antes de avançar para testes manuais mais completos, APIs, BDD, automação e ferramentas utilizadas no mercado.
 
-Tenho mais de 10 anos de experiência como professor de inglês, área em que desenvolvi habilidades como comunicação clara, didática, organização, resolução de problemas, pensamento analítico e atenção aos detalhes. Hoje, estou direcionando essas competências para minha evolução como futuro profissional de QA.
+Tenho experiência profissional como professor de inglês, área em que desenvolvi habilidades como comunicação, didática, organização, resolução de problemas e atenção aos detalhes — competências que considero muito importantes para minha evolução como futuro profissional de QA.
 
-Aqui no GitHub compartilho meus estudos, exercícios, anotações, projetos práticos e minha evolução durante essa jornada de transição para a área de tecnologia.
+Aqui no GitHub compartilho meus estudos, exercícios, anotações, projetos acadêmicos e projetos práticos relacionados à minha jornada de aprendizado em tecnologia e qualidade de software.
 
-🚀 Atualmente estudando, praticando e construindo minha base para conquistar minha primeira oportunidade em QA.
+🚀 Em construção, estudando com constância e buscando minha primeira oportunidade na área de tecnologia.
 
 <p align="left">
     <a href="https://www.instagram.com/teachercarolino/">
@@ -59,36 +59,53 @@ Aqui no GitHub compartilho meus estudos, exercícios, anotações, projetos prá
 
 ## 📚 Atualmente Estudando
 
-### Fase 1 — Base para QA
-
 * Fundamentos de Teste de Software
 * Qualidade de Software
-* Testes Manuais
+* Papel do QA no ciclo de desenvolvimento
 * Tipos e níveis de teste
-* Casos de teste
-* Cenários de teste
+* Casos de teste e cenários de teste
+* Documentação de testes
 * Relatórios de bugs
 * Git e GitHub
-* Documentação de estudos e projetos
-* Revisão de lógica de programação com Linguagem C
+* Versionamento de projetos
+* Linguagem C na graduação em ADS
 
 ---
 
 ## 🧭 Próximas Etapas do Roadmap
 
+* Testes manuais aplicados em projetos reais
+* Técnicas de teste
 * BDD com Gherkin
 * Testes de API com Postman
-* SQL
-* Python
-* Automação de Testes
+* SQL básico para QA
+* Python para automação
 * Robot Framework
-* Cypress
-* Projetos práticos para portfólio de QA
+* Construção de portfólio QA no GitHub
 
 ---
 
-## 🎯 Objetivo Atual
+## 📌 Objetivo Atual
 
-Construir uma base sólida em QA Manual, Git/GitHub e documentação de testes, desenvolvendo projetos práticos para demonstrar minha evolução e me preparar para minha primeira oportunidade na área de tecnologia.
+Consolidar minha base em testes de software, Git e GitHub, documentando minha evolução por meio de projetos práticos e estudos públicos.
+
+Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, preferencialmente como QA Júnior, Analista de Testes Júnior ou Estagiário em Qualidade de Software.
 
 ---
+
+## 📊 Estatísticas
+
+<p>
+  <img
+    align="left"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=CarolinoLeonardo&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
+
+<img
+align="left"
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinoLeonardo&theme=tokyonight&layout=compact&langs_count=8"
+/>
+
+</p>
