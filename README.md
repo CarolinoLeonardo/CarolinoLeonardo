@@ -1,16 +1,19 @@
+```markdown
 # 👨🏻‍💻 Leonardo Carolino
 
-**`QA em Formação | Automação de Testes | Transição de Carreira para TI`**
+**`QA em Formação | Testes de Software | Transição de Carreira para TI`**
 
-Me chamo Leonardo Carolino, tenho 34 anos e sou de Campinas/SP. Atualmente estou em transição de carreira para a área de Tecnologia da Informação, com foco em Qualidade de Software (QA) e Automação de Testes.
+Me chamo Leonardo Carolino, tenho 34 anos e sou de Campinas/SP. Atualmente estou em transição de carreira para a área de Tecnologia da Informação, com foco em Qualidade de Software (QA).
 
-Sou estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com previsão de conclusão no 2º semestre de 2028. Além da graduação, venho me dedicando a cursos, projetos práticos e estudos voltados para testes manuais, automação, APIs e desenvolvimento de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas pela Estácio de Sá, com previsão de conclusão no 2º semestre de 2028. Finalizei o primeiro semestre da graduação, onde tive contato com fundamentos importantes como Linguagem C, lógica de programação, segurança da informação, redes de computadores e computação em nuvem.
 
-Tenho experiência profissional como professor de inglês, onde desenvolvi habilidades como comunicação, didática, resolução de problemas e atenção aos detalhes, competências que hoje aplico em minha jornada na área de tecnologia.
+Neste momento, estou na primeira fase do meu processo de recolocação profissional em TI, seguindo um roadmap de estudos focado em QA. Minha etapa atual está concentrada em construir uma base sólida em testes de software, testes manuais, documentação de testes, Git, GitHub e boas práticas de organização de projetos.
 
-Aqui no GitHub compartilho meus projetos, exercícios, estudos e desafios, documentando minha evolução como futuro profissional de QA e desenvolvimento.
+Tenho mais de 10 anos de experiência como professor de inglês, área em que desenvolvi habilidades como comunicação clara, didática, atenção aos detalhes, resolução de problemas e análise cuidadosa de necessidades. Hoje, aplico essas competências na minha evolução como futuro profissional de QA.
 
-🚀 Sempre aprendendo, construindo projetos e buscando minha primeira oportunidade na área de tecnologia.
+Aqui no GitHub compartilho meus exercícios, projetos de estudo, anotações e desafios práticos, documentando minha jornada de aprendizado e evolução na área de tecnologia.
+
+🚀 Em busca da minha primeira oportunidade em TI, especialmente em QA, Testes Manuais ou posições de entrada na área de Qualidade de Software.
 
 <p align="left">
     <a href="https://www.instagram.com/teachercarolino/">
@@ -40,17 +43,31 @@ Aqui no GitHub compartilho meus projetos, exercícios, estudos e desafios, docum
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🎯 Fase Atual da Jornada
 
-<img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+Atualmente estou na **Fase 1 do meu roadmap de recolocação para QA**, com foco em:
+
+* Fundamentos de Teste de Software
+* Conceitos de Qualidade de Software
+* Testes Manuais
+* Criação de casos de teste
+* Registro de bugs
+* Documentação de testes
+* Git e GitHub
+* Organização de repositórios e versionamento
+* Revisão dos fundamentos de lógica e programação em C
+
+Meu objetivo nesta etapa é construir uma base forte antes de avançar para automação de testes, testes de API, banco de dados, Python e ferramentas utilizadas no mercado.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
 
 <img align="left" alt="C" title="Linguagem C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 <img align="left" alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<img align="left" alt="PyCharm" title="PyCharm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 
 <img align="left" alt="VS Code" title="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
@@ -61,15 +78,42 @@ Aqui no GitHub compartilho meus projetos, exercícios, estudos e desafios, docum
 
 ## 📚 Atualmente Estudando
 
-* Fundamentos de Teste de Software
+* Fundamentos do Teste de Software
 * Git e GitHub
 * Testes Manuais
-* Automação de Testes
-* Python
-* Linguagem C
-* APIs REST
-* BDD (Behavior Driven Development)
 * Qualidade de Software
+* Casos de Teste
+* Relatórios de Bugs
+* Documentação de Testes
+* Lógica de Programação
+* Linguagem C
+
+---
+
+## 🧪 Próximos Passos no Roadmap
+
+Nos próximos meses, meu plano de estudos inclui:
+
+* BDD com Gherkin
+* Testes de API com Postman
+* SQL para QA
+* Python para automação
+* Robot Framework
+* Cypress
+* Azure DevOps
+* Projetos práticos de QA para portfólio
+
+---
+
+## 📌 Projetos em Desenvolvimento
+
+Atualmente estou organizando meus estudos e projetos iniciais, incluindo:
+
+* Exercícios de programação em C
+* Repositórios de estudo com Git e GitHub
+* Documentações de testes manuais
+* Casos de teste baseados em cenários reais
+* Relatórios de bugs simulando situações do mercado
 
 ---
 
@@ -89,3 +133,4 @@ Aqui no GitHub compartilho meus projetos, exercícios, estudos e desafios, docum
 />
 
 </p>
+```
