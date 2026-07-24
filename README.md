@@ -85,7 +85,7 @@ Aqui no GitHub compartilho meus estudos, exercícios, anotações, projetos acad
 
 ## 📌 Objetivo Atual
 
-Consolidar minha base em testes de software, Git e GitHub, documentando minha evolução por meio de projetos práticos e estudos públicos.
+Desenvolver meus primeiros projetos práticos de QA Manual utilizando o BugBank, criando e documentando requisitos, cenários de teste, casos de teste e relatórios de bugs. Paralelamente, estou aprimorando meus conhecimentos em Git e GitHub para organizar e publicar meu portfólio de testes.
 
 Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, preferencialmente como QA Júnior, Analista de Testes Júnior ou Estagiário em Qualidade de Software.
 
