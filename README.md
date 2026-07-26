@@ -58,28 +58,18 @@ Aqui no GitHub compartilho meus estudos, exercícios, anotações, projetos acad
 ## 📚 Atualmente Estudando
 
 * Fundamentos de Teste de Software
-* Qualidade de Software
-* Papel do QA no ciclo de desenvolvimento
-* Tipos e níveis de teste
-* Casos de teste e cenários de teste
-* Documentação de testes
-* Relatórios de bugs
-* Git e GitHub
-* Versionamento de projetos
-* Linguagem C na graduação em ADS
+* Testes Manuais de Softare
 
 ---
 
 ## 🧭 Próximas Etapas do Roadmap
 
-* Testes manuais aplicados em projetos reais
-* Técnicas de teste
 * BDD com Gherkin
 * Testes de API com Postman
 * SQL básico para QA
+* JAVA para automação
 * Python para automação
 * Robot Framework
-* Construção de portfólio QA no GitHub
 
 ---
 
